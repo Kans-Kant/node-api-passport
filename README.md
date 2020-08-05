@@ -8,7 +8,7 @@ install dependencies with this command 'npm install'
 
 ### to run the App
 
-- cd bin
+- cd bin (or get into the bin folder)
 
 - node server.js
 
