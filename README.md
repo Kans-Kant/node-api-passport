@@ -12,6 +12,10 @@ install dependencies with this command 'npm install'
 
 - node server.js
 
+### configuration
+
+locate in the config folder and configure your environnement
+
 ### get node
 
 if you do not have nodejs install on your computer get it here : https://nodejs.org/en/
