@@ -1,4 +1,4 @@
 module.exports = {
-  'secret':'fdydhdhdgsgvdsdsds',
-  'database': 'mongodb://localhost:27017/stagepfetest'
+  'secret':'type any key you want here',
+  'database': 'your database'
 };
